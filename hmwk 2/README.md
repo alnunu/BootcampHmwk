@@ -20,10 +20,4 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * Your solution will also be able to locate the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
 
-* Solution will look as follows.
-
-![hard_solution](Images/hard_solution.png)
-
 * Make the appropriate adjustments to your script that will allow it to run on every worksheet just by running it once.
-
-* This can be applied to any of the difficulties.
